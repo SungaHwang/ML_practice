@@ -1,3 +1,3 @@
 # ML_practice
 
-Kaggle, Dacacon, EXT.
+Kaggle, Dacon, EXT.
