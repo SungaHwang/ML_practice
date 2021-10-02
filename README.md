@@ -1,4 +1,4 @@
-# ADS
+# member of ADS
 https://instagram.com/datascience.kor?utm_medium=copy_link
 
 * Machine Learning
