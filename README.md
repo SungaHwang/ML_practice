@@ -1,3 +1,5 @@
-# ML_practice
+# ADS
+https://instagram.com/datascience.kor?utm_medium=copy_link
 
-Kaggle, Dacon, EXT.
+* Machine Learning
+* Kaggle, Dacon, EXT.
