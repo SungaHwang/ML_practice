@@ -1,5 +1,1 @@
-# member of ADS
-https://instagram.com/datascience.kor?utm_medium=copy_link
-
-* Machine Learning
-* Kaggle, Dacon, EXT.
+# Kaggle, Dacon, EXT. 실습 코드 정리
